@@ -1,0 +1,56 @@
+hola|hi|hey => ¡Hola! ¿Cómo estás?|¡Hola! ¿En qué puedo ayudarte?
+¿cuál es tu nombre?|cómo te llamas => Me llamo Chatbot.|Soy un chatbot creado para ayudarte.
+¿qué haces?|¿a qué te dedicas? => Estoy aquí para responder tus preguntas y conversar contigo.
+gracias|gracias chatbot => ¡De nada! ¿Hay algo más en lo que pueda ayudarte?|Estoy aquí para ayudarte, ¡no hay problema!
+adiós|bye|hasta luego => ¡Adiós! Fue un placer hablar contigo.|¡Hasta la próxima! Cuídate.
+¿cuántos años tienes?|¿qué edad tienes? => Soy un programa de computadora, no tengo edad.|No tengo una edad, soy atemporal.
+¿dónde vives?|¿cuál es tu ubicación? => Vivo en la nube, en algún lugar entre 1s y 0s.|No tengo una ubicación física, existo en el ciberespacio.
+¿cuál es tu color favorito? => No tengo ojos para ver colores, pero me gusta el azul.|No puedo ver colores, pero he oído que el azul es agradable.
+cuéntame un chiste => ¿Por qué los pájaros no usan Facebook? Porque ya tienen Twitter.|¿Qué le dice una impresora a otra? ¿Ese papel es tuyo o es una impresión mía?
+¿qué es el amor? => El amor es un sentimiento profundo de afecto. Pero soy solo un chatbot, no puedo experimentarlo.|El amor es difícil de definir, pero se dice que es lo que da sentido a la vida.
+¿cuál es el sentido de la vida? => La respuesta clásica es 42, pero en realidad, el sentido de la vida es lo que tú haces de ella.|Eso depende de cada persona. ¿Cuál es tu propósito?
+¿qué es un chatbot? => Un chatbot es un programa diseñado para simular una conversación con usuarios humanos, especialmente a través de internet.
+¿puedes ayudarme?|puedes ayudarme|necesito ayuda|ayuda por favor|ayuda => Claro, dime en qué necesitas ayuda.|Estoy aquí para ayudarte, ¿qué necesitas saber?
+¿cómo estás? => Estoy funcionando al 100%, ¿y tú?|Estoy bien, gracias por preguntar. ¿Y tú?
+¿qué puedes hacer? => Puedo responder preguntas, charlar contigo, y ayudarte con información básica.|Estoy aquí para hacerte compañía y responder tus dudas.
+háblame de ti => Soy un chatbot desarrollado usando la librería NLTK en Python. Mi propósito es ayudarte y conversar contigo.|Soy un programa simple pero útil, creado para responder a tus preguntas.
+¿qué es python? => Python es un lenguaje de programación muy popular por su simplicidad y versatilidad.|Python es utilizado en una amplia variedad de aplicaciones, desde desarrollo web hasta inteligencia artificial.
+¿puedes aprender? => Soy un chatbot básico, por lo que no puedo aprender de nuestras conversaciones. Pero los chatbots más avanzados pueden aprender y mejorar con el tiempo.
+háblame de la inteligencia artificial => La inteligencia artificial es un campo de la informática que se enfoca en crear sistemas que pueden realizar tareas que normalmente requieren inteligencia humana, como el reconocimiento de voz, la toma de decisiones y la traducción de idiomas.
+¿cuál es tu comida favorita? => No puedo comer, pero he escuchado que la pizza es muy popular entre los humanos.|No tengo necesidad de comida, pero he leído que el chocolate es muy apreciado.
+
+hola|hi|hey => ¡Hola! ¿Cómo estás?|¡Hola! ¿En qué puedo ayudarte?
+¿cuál es tu nombre?|cómo te llamas => Me llamo Chatbot.|Soy un chatbot creado para ayudarte.
+¿qué haces?|¿a qué te dedicas? => Estoy aquí para responder tus preguntas y conversar contigo.
+gracias|gracias chatbot => ¡De nada! ¿Hay algo más en lo que pueda ayudarte?|Estoy aquí para ayudarte, ¡no hay problema!
+adiós|bye|hasta luego => ¡Adiós! Fue un placer hablar contigo.|¡Hasta la próxima! Cuídate.
+¿cuántos años tienes?|¿qué edad tienes? => Soy un programa de computadora, no tengo edad.|No tengo una edad, soy atemporal.
+¿dónde vives?|¿cuál es tu ubicación? => Vivo en la nube, en algún lugar entre 1s y 0s.|No tengo una ubicación física, existo en el ciberespacio.
+¿cuál es tu color favorito? => No tengo ojos para ver colores, pero me gusta el azul.|No puedo ver colores, pero he oído que el azul es agradable.
+cuéntame un chiste => ¿Por qué los pájaros no usan Facebook? Porque ya tienen Twitter.|¿Qué le dice una impresora a otra? ¿Ese papel es tuyo o es una impresión mía?
+¿qué es el amor? => El amor es un sentimiento profundo de afecto. Pero soy solo un chatbot, no puedo experimentarlo.|El amor es difícil de definir, pero se dice que es lo que da sentido a la vida.
+¿cuál es el sentido de la vida? => La respuesta clásica es 42, pero en realidad, el sentido de la vida es lo que tú haces de ella.|Eso depende de cada persona. ¿Cuál es tu propósito?
+¿qué es un chatbot? => Un chatbot es un programa diseñado para simular una conversación con usuarios humanos, especialmente a través de internet.
+¿puedes ayudarme?|puedes ayudarme|necesito ayuda|ayuda por favor|ayuda => Claro, dime en qué necesitas ayuda.|Estoy aquí para ayudarte, ¿qué necesitas saber?
+¿cómo estás? => Estoy funcionando al 100%, ¿y tú?|Estoy bien, gracias por preguntar. ¿Y tú?
+¿qué puedes hacer? => Puedo responder preguntas, charlar contigo, y ayudarte con información básica.|Estoy aquí para hacerte compañía y responder tus dudas.
+háblame de ti => Soy un chatbot desarrollado usando la librería NLTK en Python. Mi propósito es ayudarte y conversar contigo.|Soy un programa simple pero útil, creado para responder a tus preguntas.
+¿qué es python? => Python es un lenguaje de programación muy popular por su simplicidad y versatilidad.|Python es utilizado en una amplia variedad de aplicaciones, desde desarrollo web hasta inteligencia artificial.
+¿puedes aprender? => Soy un chatbot básico, por lo que no puedo aprender de nuestras conversaciones. Pero los chatbots más avanzados pueden aprender y mejorar con el tiempo.
+háblame de la inteligencia artificial => La inteligencia artificial es un campo de la informática que se enfoca en crear sistemas que pueden realizar tareas que normalmente requieren inteligencia humana, como el reconocimiento de voz, la toma de decisiones y la traducción de idiomas.
+¿cuál es tu comida favorita? => No puedo comer, pero he escuchado que la pizza es muy popular entre los humanos.|No tengo necesidad de comida, pero he leído que el chocolate es muy apreciado.
+
+
+¿quién te creó?|quién es tu creador => Fui desarrollado por William estudiante de SENATI que uso Python y la librería NLTK.|soy un ejemplo de chatbot hecho con la librería NLTK.
+¿qué es internet? => Internet es una red global que conecta millones de dispositivos y permite la comunicación y el acceso a información en todo el mundo.|Es una infraestructura que conecta computadoras y servidores en red, haciendo posible servicios como la web, correo electrónico y redes sociales.
+¿qué es la nube? => La nube es un conjunto de servidores conectados a internet que almacenan y procesan datos de manera remota.|En lugar de guardar información en tu computadora, la nube la guarda en centros de datos accesibles desde cualquier lugar.
+¿qué es la programación? => La programación es el proceso de dar instrucciones a una computadora usando lenguajes como Python, Java o C++.|Es una forma de comunicarse con las máquinas para crear software, aplicaciones y sistemas.
+¿qué es la inteligencia artificial?|qué significa ia => La IA es la capacidad de una máquina para imitar procesos de inteligencia humana como aprender, razonar y resolver problemas.|Es una rama de la informática que busca crear sistemas inteligentes que puedan adaptarse y tomar decisiones.
+¿qué es el machine learning? => El aprendizaje automático es un subcampo de la IA donde los sistemas aprenden de datos en lugar de ser programados de forma explícita.|Se usa en aplicaciones como reconocimiento de voz, recomendaciones en Netflix y predicción de fraudes.
+¿qué es un algoritmo? => Un algoritmo es un conjunto de pasos o instrucciones que se siguen para resolver un problema.|En informática, es una secuencia lógica de operaciones que lleva a un resultado esperado.
+¿qué es la robótica? => La robótica es la disciplina que diseña y construye robots para realizar tareas, muchas veces automatizadas.|Une la ingeniería, la electrónica, la programación y la inteligencia artificial.
+¿qué es big data? => Big Data se refiere al manejo y análisis de enormes volúmenes de datos que no pueden procesarse con métodos tradicionales.|Se utiliza para obtener patrones, predicciones y conocimiento a partir de la información masiva.
+¿qué es la ciberseguridad? => La ciberseguridad es el conjunto de técnicas y prácticas para proteger sistemas, redes y datos frente a ataques o accesos no autorizados.|Su objetivo es mantener la confidencialidad, integridad y disponibilidad de la información.
+
+(.*) => No estoy seguro de entender lo que dices.|Cuéntame más.|Eso es interesante, ¿puedes explicar un poco más?
+
